@@ -1,0 +1,47 @@
+selector
+ID: getElementById()
+Class
+Tag/element
+getElementsByClassName()
+getelementsByTagName()
+getElementsByName()
+querySeclectorAll()
+querySeclector()
+
+
+function
+particular task
+
+2 type
+1. pre define
+2. user define
+
+Event
+mouse-click, onclick, ondblclick
+keyboard
+form
+input
+load
+window
+drag
+media
+
+
+
+output method
+innerHTML
+document.write()
+window.alert()
+consol.log()
+
+variable
+
+Datatype
+
+Operator
+
+
+
+javascript-hw
+https://rokibulhasan001.github.io/javaseript-hw/
+
